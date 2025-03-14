@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545424695415",
+    "project_id": "pariyakorn-8a8a7",
+    "storage_bucket": "pariyakorn-8a8a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545424695415:android:63e4d6264b0b8356a72672",
+        "android_client_info": {
+          "package_name": "com.example.internetspeed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpG8Dr6mdQiUhJUZ3gWf-uLrDmPm4jw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
